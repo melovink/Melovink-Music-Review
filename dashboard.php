@@ -16,7 +16,16 @@
     ?>
 
     <header>
-        <h1>MMR</h1> <!-- Idea : Add a menu to navigate to user's profile so they can RUD it -->
+        <div class="title">
+            <h1>MMR</h1> <!-- Idea : Add a menu to navigate to user's profile so they can RUD it -->
+        </div>
+        <div class="nav">
+            <a href="users.php">Profile</a>
+            <a href=""></a>
+            <a href=""></a>
+            <a href=""></a>
+        </div>
+        
     </header>
     <form action="logout.php" method="POST">
         <button type="submit">
