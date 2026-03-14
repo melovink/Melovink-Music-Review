@@ -21,9 +21,6 @@
         </div>
         <div class="nav">
             <a href="users.php">Profile</a>
-            <a href=""></a>
-            <a href=""></a>
-            <a href=""></a>
         </div>
         
     </header>
